@@ -1,0 +1,20 @@
+for loop
+--------
+for var in sequence
+do
+	statement
+done
+
+while loop
+----------
+while [ condition ]
+do
+	statement
+done
+
+until loop
+----------
+until [ condition ]
+do 
+	statement
+done

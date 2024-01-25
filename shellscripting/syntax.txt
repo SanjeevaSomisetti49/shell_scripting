@@ -1,0 +1,39 @@
+if statement
+------------
+if [ condition ];
+then
+statement
+fi
+
+if else statement
+-----------------
+if [ condition ];
+then
+statement1
+else 
+statement2
+fi
+
+if elif statement
+-----------------
+if [ conditon ];
+then
+statement1
+elif [ condition ];
+then
+statement2
+else
+statement3
+fi
+
+case statement
+--------------
+case Expression in
+case1) statement;;
+case2) statement;;
+case3) statement;;
+.
+.
+.
+*) statement;;
+esac
